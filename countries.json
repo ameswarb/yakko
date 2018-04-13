@@ -1,0 +1,568 @@
+{
+  "data": {
+    "US": {
+      "start": 20,
+      "duration": 21
+    },
+    "CA": {
+      "start": 21,
+      "duration": 1
+    },
+    "MX": {
+      "start": 21,
+      "duration": 1
+    },
+    "PA": {
+      "start": 22,
+      "duration": 1
+    },
+    "HT": {
+      "start": 22,
+      "duration": 1
+    },
+    "JM": {
+      "start": 23,
+      "duration": 1
+    },
+    "PE": {
+      "start": 23,
+      "duration": 1
+    },
+    "DO": {
+      "start": 24,
+      "duration": 1
+    },
+    "CU": {
+      "start": 25,
+      "duration": 2
+    },
+    "GL": {
+      "start": 26,
+      "duration": 1
+    },
+    "SV": {
+      "start": 26,
+      "duration": 1
+    },
+    "PR": {
+      "start": 27,
+      "duration": 1
+    },
+    "VE": {
+      "start": 28,
+      "duration": 1
+    },
+    "HN": {
+      "start": 30,
+      "duration": 1
+    },
+    "GY": {
+      "start": 30,
+      "duration": 1
+    },
+    "GT": {
+      "start": -1,
+      "duration": 1
+    },
+    "BO": {
+      "start": -1,
+      "duration": 1
+    },
+    "AR": {
+      "start": -1,
+      "duration": 1
+    },
+    "EC": {
+      "start": -1,
+      "duration": 1
+    },
+    "CL": {
+      "start": -1,
+      "duration": 1
+    },
+    "BR": {
+      "start": -1,
+      "duration": 1
+    },
+    "CR": {
+      "start": -1,
+      "duration": 1
+    },
+    "BZ": {
+      "start": -1,
+      "duration": 1
+    },
+    "NI": {
+      "start": -1,
+      "duration": 1
+    },
+    "BM": {
+      "start": -1,
+      "duration": 1
+    },
+    "BS": {
+      "start": -1,
+      "duration": 1
+    },
+    "TT": {
+      "start": -1,
+      "duration": 1
+    },
+    "PY": {
+      "start": -1,
+      "duration": 1
+    },
+    "UY": {
+      "start": -1,
+      "duration": 1
+    },
+    "GF": {
+      "start": -1,
+      "duration": 1
+    },
+    "BD": {
+      "start": -1,
+      "duration": 1
+    },
+    "GU": {
+      "start": -1,
+      "duration": 1
+    },
+    "NO": {
+      "start": -1,
+      "duration": 1
+    },
+    "SE": {
+      "start": -1,
+      "duration": 1
+    },
+    "IS": {
+      "start": -1,
+      "duration": 1
+    },
+    "FI": {
+      "start": -1,
+      "duration": 1
+    },
+    "DE": {
+      "start": -1,
+      "duration": 1
+    },
+    "CH": {
+      "start": -1,
+      "duration": 1
+    },
+    "AT": {
+      "start": -1,
+      "duration": 1
+    },
+    "CZ": {
+      "start": -1,
+      "duration": 1
+    },
+    "IT": {
+      "start": -1,
+      "duration": 1
+    },
+    "TR": {
+      "start": -1,
+      "duration": 1
+    },
+    "GR": {
+      "start": -1,
+      "duration": 1
+    },
+    "PL": {
+      "start": -1,
+      "duration": 1
+    },
+    "RO": {
+      "start": -1,
+      "duration": 1
+    },
+    "AL": {
+      "start": -1,
+      "duration": 1
+    },
+    "IE": {
+      "start": -1,
+      "duration": 1
+    },
+    "RU": {
+      "start": -1,
+      "duration": 1
+    },
+    "OM": {
+      "start": -1,
+      "duration": 1
+    },
+    "BG": {
+      "start": -1,
+      "duration": 1
+    },
+    "SA": {
+      "start": -1,
+      "duration": 1
+    },
+    "HU": {
+      "start": -1,
+      "duration": 1
+    },
+    "CY": {
+      "start": -1,
+      "duration": 1
+    },
+    "IQ": {
+      "start": -1,
+      "duration": 1
+    },
+    "IR": {
+      "start": -1,
+      "duration": 1
+    },
+    "SY": {
+      "start": -1,
+      "duration": 1
+    },
+    "LB": {
+      "start": -1,
+      "duration": 1
+    },
+    "IL": {
+      "start": -1,
+      "duration": 1
+    },
+    "JO": {
+      "start": -1,
+      "duration": 1
+    },
+    "YE": {
+      "start": -1,
+      "duration": 1
+    },
+    "KW": {
+      "start": -1,
+      "duration": 1
+    },
+    "BH": {
+      "start": -1,
+      "duration": 1
+    },
+    "NL": {
+      "start": -1,
+      "duration": 1
+    },
+    "LU": {
+      "start": -1,
+      "duration": 1
+    },
+    "BE": {
+      "start": -1,
+      "duration": 1
+    },
+    "PT": {
+      "start": -1,
+      "duration": 1
+    },
+    "FR": {
+      "start": -1,
+      "duration": 1
+    },
+    "GB": {
+      "start": -1,
+      "duration": 1
+    },
+    "DK": {
+      "start": -1,
+      "duration": 1
+    },
+    "ES": {
+      "start": -1,
+      "duration": 1
+    },
+    "IN": {
+      "start": -1,
+      "duration": 1
+    },
+    "PK": {
+      "start": -1,
+      "duration": 1
+    },
+    "AF": {
+      "start": -1,
+      "duration": 1
+    },
+    "TH": {
+      "start": -1,
+      "duration": 1
+    },
+    "NP": {
+      "start": -1,
+      "duration": 1
+    },
+    "MY": {
+      "start": -1,
+      "duration": 1
+    },
+    "BD": {
+      "start": -1,
+      "duration": 1
+    },
+    "CN": {
+      "start": -1,
+      "duration": 1
+    },
+    "KR": {
+      "start": -1,
+      "duration": 1
+    },
+    "KP": {
+      "start": -1,
+      "duration": 1
+    },
+    "JP": {
+      "start": -1,
+      "duration": 1
+    },
+    "MN": {
+      "start": -1,
+      "duration": 1
+    },
+    "LA": {
+      "start": -1,
+      "duration": 1
+    },
+    "ID": {
+      "start": -1,
+      "duration": 1
+    },
+    "PH": {
+      "start": -1,
+      "duration": 1
+    },
+    "TW": {
+      "start": -1,
+      "duration": 1
+    },
+    "LK": {
+      "start": -1,
+      "duration": 1
+    },
+    "PG": {
+      "start": -1,
+      "duration": 1
+    },
+    "NZ": {
+      "start": -1,
+      "duration": 1
+    },
+    "VN": {
+      "start": -1,
+      "duration": 1
+    },
+    "TN": {
+      "start": -1,
+      "duration": 1
+    },
+    "MA": {
+      "start": -1,
+      "duration": 1
+    },
+    "UG": {
+      "start": -1,
+      "duration": 1
+    },
+    "AO": {
+      "start": -1,
+      "duration": 1
+    },
+    "ZW": {
+      "start": -1,
+      "duration": 1
+    },
+    "DJ": {
+      "start": -1,
+      "duration": 1
+    },
+    "BW": {
+      "start": -1,
+      "duration": 1
+    },
+    "MZ": {
+      "start": -1,
+      "duration": 1
+    },
+    "ZM": {
+      "start": -1,
+      "duration": 1
+    },
+    "SZ": {
+      "start": -1,
+      "duration": 1
+    },
+    "GM": {
+      "start": -1,
+      "duration": 1
+    },
+    "GN": {
+      "start": -1,
+      "duration": 1
+    },
+    "DZ": {
+      "start": -1,
+      "duration": 1
+    },
+    "GH": {
+      "start": -1,
+      "duration": 1
+    },
+    "BI": {
+      "start": -1,
+      "duration": 1
+    },
+    "LS": {
+      "start": -1,
+      "duration": 1
+    },
+    "MW": {
+      "start": -1,
+      "duration": 1
+    },
+    "TG": {
+      "start": -1,
+      "duration": 1
+    },
+    "EH": {
+      "start": -1,
+      "duration": 1
+    },
+    "NE": {
+      "start": -1,
+      "duration": 1
+    },
+    "NG": {
+      "start": -1,
+      "duration": 1
+    },
+    "TD": {
+      "start": -1,
+      "duration": 1
+    },
+    "LR": {
+      "start": -1,
+      "duration": 1
+    },
+    "EG": {
+      "start": -1,
+      "duration": 1
+    },
+    "BJ": {
+      "start": -1,
+      "duration": 1
+    },
+    "GA": {
+      "start": -1,
+      "duration": 1
+    },
+    "TZ": {
+      "start": -1,
+      "duration": 1
+    },
+    "SO": {
+      "start": -1,
+      "duration": 1
+    },
+    "KE": {
+      "start": -1,
+      "duration": 1
+    },
+    "ML": {
+      "start": -1,
+      "duration": 1
+    },
+    "SL": {
+      "start": -1,
+      "duration": 1
+    },
+    "NA": {
+      "start": -1,
+      "duration": 1
+    },
+    "SN": {
+      "start": -1,
+      "duration": 1
+    },
+    "LY": {
+      "start": -1,
+      "duration": 1
+    },
+    "CM": {
+      "start": -1,
+      "duration": 1
+    },
+    "CG": {
+      "start": -1,
+      "duration": 1
+    },
+    "ET": {
+      "start": -1,
+      "duration": 1
+    },
+    "GW": {
+      "start": -1,
+      "duration": 1
+    },
+    "MG": {
+      "start": -1,
+      "duration": 1
+    },
+    "RW": {
+      "start": -1,
+      "duration": 1
+    },
+    "KY": {
+      "start": -1,
+      "duration": 1
+    },
+    "HK": {
+      "start": -1,
+      "duration": 1
+    },
+    "QA": {
+      "start": -1,
+      "duration": 1
+    },
+    "MR": {
+      "start": -1,
+      "duration": 1
+    },
+    "MC": {
+      "start": -1,
+      "duration": 1
+    },
+    "LI": {
+      "start": -1,
+      "duration": 1
+    },
+    "MT": {
+      "start": -1,
+      "duration": 1
+    },
+    "PS": {
+      "start": -1,
+      "duration": 1
+    },
+    "FJ": {
+      "start": -1,
+      "duration": 1
+    },
+    "AU": {
+      "start": -1,
+      "duration": 1
+    },
+    "SD": {
+      "start": -1,
+      "duration": 1
+    }
+  }
+}
