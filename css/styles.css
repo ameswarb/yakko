@@ -1,3 +1,32 @@
 * {
+
   box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #ccc;
+  height: 100vh;
+  width: 100vw;
+}
+
+#loading, #go {
+  font-size: 72px;
+  position: absolute;
+  z-index: 100;
+  background: #000;
+  width: 100%;
+  height: 100%;
+  line-height: 100vh;
+  text-align: center;
+}
+
+#go {
+  cursor: pointer;
+}
+
+#player {
+  height: 100vh;
+  width: 100%;
 }
